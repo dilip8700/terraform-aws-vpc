@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+terraform.tfvars
+*.tfvars.json
+*.pem
+
+# .terraform.lock.hcl is committed on purpose
